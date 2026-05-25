@@ -1,0 +1,149 @@
+aid: jar-app
+name: Jar
+description: >-
+  Jar is a Bengaluru-based fintech company operating India's first
+  micro-savings app, enabling tens of millions of Indians to save in
+  24K digital gold from as little as ₹10. The app supports daily,
+  weekly, monthly, and instant savings mechanisms, plus a round-up
+  feature that automatically invests spare change from everyday
+  transactions into 99.5%+ pure digital gold held in insured vaults.
+  Founded in 2021 by Nishchay AG (CEO) and Misbah Ashraf (CPO) under
+  Changejar Technologies Private Limited, Jar has grown to 50+ million
+  registered users across 12,000+ Indian zip codes. The company
+  recently vertically integrated its gold operations, moving away
+  from a third-party distribution model to purchase, store, and manage
+  gold directly. Jar partners with Brink's for global custody, ICICI
+  Lombard for insurance, Vistra as independent trustee, and BDO as
+  statutory auditor. Adjacent products include Nek, a direct-to-consumer
+  gold and silver jewellery brand sold via shopnek.com. Jar reached
+  profitability in 2025 after backing from Tiger Global, Arkam Ventures,
+  Rainfall Ventures, Yes VC, and others at a $300M+ valuation, and is
+  preparing for an IPO. There is no public developer API, SDK, or
+  partner integration program — Jar is a B2C consumer mobile app
+  distributed exclusively through Apple App Store and Google Play.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fintech
+  - Micro Savings
+  - Digital Gold
+  - Gold Investment
+  - Consumer Finance
+  - Mobile App
+  - India
+  - Bengaluru
+  - Wealth Management
+  - Personal Finance
+  - Round Up Savings
+  - Jewellery
+url: https://raw.githubusercontent.com/api-evangelist/jar-app/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.myjar.app
+  - type: About
+    url: https://www.myjar.app/about
+  - type: Blog
+    url: https://www.myjar.app/blog
+  - type: Help
+    url: https://www.myjar.app/help
+  - type: FAQ
+    url: https://www.myjar.app/help
+  - type: Careers
+    url: https://www.myjar.app/careers
+  - type: PrivacyPolicy
+    url: https://www.myjar.app/privacy-policy
+  - type: TermsOfService
+    url: https://www.myjar.app/terms-and-conditions
+  - type: SecurityPolicy
+    url: https://www.myjar.app/isms-policy
+  - type: AppStore
+    url: https://apps.apple.com/in/app/jar-app-daily-savings-in-gold/id1597085873
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=money.jar
+  - type: Jewellery
+    url: https://www.shopnek.com
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/jar-09f5
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/myjar
+  - type: Instagram
+    url: https://www.instagram.com/jar_app
+  - type: Twitter
+    url: https://twitter.com/jar_app
+  - type: YouTube
+    url: https://www.youtube.com/@jar_app
+  - type: Features
+    data:
+      - name: Daily Savings
+        description: Automated daily purchases of 24K digital gold from ₹10.
+      - name: Weekly Savings
+        description: Scheduled weekly digital gold purchases.
+      - name: Monthly Savings
+        description: Scheduled monthly digital gold purchases for goal-based saving.
+      - name: Instant Savings
+        description: One-tap on-demand digital gold purchases.
+      - name: Round-Up Savings
+        description: Automatically invests spare change from daily transactions into digital gold.
+      - name: 24K Digital Gold
+        description: 99.5%+ pure gold stored in insured vaults with Brink's as global custody partner.
+      - name: Insured Custody
+        description: Gold holdings insured by ICICI Lombard with Vistra acting as independent trustee.
+      - name: Live Gold Pricing
+        description: Real-time gold rate tracking and conversion across all transactions.
+      - name: Instant Withdrawal
+        description: Sell digital gold and receive funds back to a linked bank account on demand.
+      - name: Physical Delivery
+        description: Convert digital gold holdings into physical gold coins or Nek jewellery.
+      - name: Nek Jewellery
+        description: Direct-to-consumer gold and silver jewellery brand integrated with Jar holdings.
+      - name: Segregated Escrow
+        description: User funds held in segregated escrow accounts separate from company funds.
+      - name: Multi-Factor Authentication
+        description: MFA protection across login and high-value transactions.
+  - type: UseCases
+    data:
+      - name: Habit-Based Saving
+        description: Build a daily savings habit through small, automated contributions in gold.
+      - name: Inflation Hedge
+        description: Park rupees in 24K gold to hedge against domestic inflation.
+      - name: Festival and Wedding Goal Saving
+        description: Save toward culturally significant gold purchases for weddings and festivals.
+      - name: Financial Inclusion
+        description: Bring first-time savers and unbanked / underbanked users into formal financial products via low ticket sizes.
+      - name: Spare Change Investing
+        description: Convert round-up amounts from daily UPI / card transactions into long-term gold holdings.
+      - name: Gifting Gold
+        description: Send small denominations of digital gold as gifts within India.
+  - type: Integrations
+    data:
+      - name: Brink's
+        description: Global custody partner securing physical gold backing Jar digital holdings.
+      - name: ICICI Lombard
+        description: Insurance partner covering the gold held in custody.
+      - name: Vistra
+        description: Independent trustee performing audits over user gold balances.
+      - name: BDO
+        description: Statutory auditor of Changejar Technologies Private Limited.
+      - name: UPI
+        description: Unified Payments Interface used as the primary payment rail for buy/sell transactions.
+      - name: Apple App Store
+        description: Primary iOS distribution channel for the Jar mobile app.
+      - name: Google Play
+        description: Primary Android distribution channel for the Jar mobile app.
+      - name: Nek (shopnek.com)
+        description: Sister jewellery brand for converting digital gold holdings into physical jewellery.
+  - type: Solutions
+    data:
+      - name: Jar Savings App
+        description: Core consumer mobile app for automated 24K digital gold micro-savings.
+      - name: Nek Jewellery
+        description: D2C gold and silver jewellery line for redeeming or supplementing Jar gold holdings.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
