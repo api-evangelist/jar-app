@@ -1,4 +1,4 @@
-# jar-app
+# Jar
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jar — India's micro-savings app for daily 24K digital gold investing (Bengaluru, est. 2021)
+Jar is a Bengaluru-based fintech company operating India's first micro-savings app, enabling tens of millions of Indians to save in 24K digital gold from as little as ₹10. The app supports daily, weekly, monthly, and instant savings mechanisms, plus a round-up feature that automatically invests spare change from everyday transactions into 99.5%+ pure digital gold held in insured vaults. Founded in 2021 by Nishchay AG (CEO) and Misbah Ashraf (CPO) under Changejar Technologies Private Limited, Jar has grown to 50+ million registered users across 12,000+ Indian zip codes. The company recently vertically integrated its gold operations, moving away from a third-party distribution model to purchase, store, and manage gold directly. Jar partners with Brink's for global custody, ICICI Lombard for insurance, Vistra as independent trustee, and BDO as statutory auditor. Adjacent products include Nek, a direct-to-consumer gold and silver jewellery brand sold via shopnek.com. Jar reached profitability in 2025 after backing from Tiger Global, Arkam Ventures, Rainfall Ventures, Yes VC, and others at a $300M+ valuation, and is preparing for an IPO. There is no public developer API, SDK, or partner integration program — Jar is a B2C consumer mobile app distributed exclusively through Apple App Store and Google Play.
+
+**Areas:** Fintech · Micro Savings · Digital Gold · Gold Investment · Consumer Finance · Mobile App · India · Bengaluru · Wealth Management · Personal Finance · Round Up Savings · Jewellery
+
+## Jar on APIs.io
+
+Everything profiled for Jar is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jar-app/](https://apis.io/providers/jar-app/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jar App Domain Security](https://apis.io/security/jar-app/jar-app-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.myjar.app)
+- [Blog](https://www.myjar.app/blog)
+- [Terms of service](https://www.myjar.app/terms-and-conditions)
+- [Privacy policy](https://www.myjar.app/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 5.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jar-app/](https://apis.io/providers/jar-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Jar: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jar-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
